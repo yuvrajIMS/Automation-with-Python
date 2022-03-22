@@ -12,7 +12,7 @@ import uuid
 from datetime import datetime
 
 
-print("Python Path						: "+ shutil.which("python"))
+
 print('Python version					:', platform.python_version())
 
 print("")
